@@ -1,0 +1,101 @@
+cliente_id,nome,email,cidade,data_cadastro,status
+1,Cliente 1,cliente1@exemplo.com,São Paulo,2024-04-24,pending
+2,Cliente 2,cliente2@exemplo.com,Rio de Janeiro,2024-10-08,active
+3,Cliente 3,cliente3@exemplo.com,São Paulo,2024-05-22,pending
+4,Cliente 4,cliente4@exemplo.com,Curitiba,2024-03-30,inactive
+5,Cliente 5,cliente5@exemplo.com,São Paulo,2024-02-02,active
+6,Cliente 6,cliente6@exemplo.com,Rio de Janeiro,2024-08-11,pending
+7,Cliente 7,cliente7@exemplo.com,Curitiba,2024-01-28,active
+8,Cliente 8,cliente8@exemplo.com,Rio de Janeiro,2025-03-05,inactive
+9,Cliente 9,cliente9@exemplo.com,São Paulo,2024-10-11,active
+10,Cliente 10,cliente10@exemplo.com,Fortaleza,2025-03-08,inactive
+11,Cliente 11,cliente11@exemplo.com,Rio de Janeiro,2024-06-08,inactive
+12,Cliente 12,cliente12@exemplo.com,São Paulo,2024-04-14,inactive
+13,Cliente 13,cliente13@exemplo.com,Fortaleza,2024-04-09,inactive
+14,Cliente 14,cliente14@exemplo.com,São Paulo,2024-09-27,pending
+15,Cliente 15,cliente15@exemplo.com,Curitiba,2025-04-15,active
+16,Cliente 16,cliente16@exemplo.com,São Paulo,2025-01-22,pending
+17,Cliente 17,cliente17@exemplo.com,Curitiba,2024-10-27,inactive
+18,Cliente 18,cliente18@exemplo.com,São Paulo,2024-07-15,active
+19,Cliente 19,cliente19@exemplo.com,Fortaleza,2024-08-21,active
+20,Cliente 20,cliente20@exemplo.com,São Paulo,2024-08-26,inactive
+21,Cliente 21,cliente21@exemplo.com,Belo Horizonte,2024-10-11,pending
+22,Cliente 22,cliente22@exemplo.com,Rio de Janeiro,2025-01-08,inactive
+23,Cliente 23,cliente23@exemplo.com,Rio de Janeiro,2024-12-29,pending
+24,Cliente 24,cliente24@exemplo.com,São Paulo,2024-09-30,pending
+25,Cliente 25,cliente25@exemplo.com,Curitiba,2024-06-24,pending
+26,Cliente 26,cliente26@exemplo.com,Rio de Janeiro,2024-09-07,inactive
+27,Cliente 27,cliente27@exemplo.com,Fortaleza,2025-01-23,pending
+28,Cliente 28,cliente28@exemplo.com,Fortaleza,2024-08-12,active
+29,Cliente 29,cliente29@exemplo.com,São Paulo,2024-08-22,inactive
+30,Cliente 30,cliente30@exemplo.com,Fortaleza,2025-02-14,active
+31,Cliente 31,cliente31@exemplo.com,Curitiba,2024-08-04,pending
+32,Cliente 32,cliente32@exemplo.com,Rio de Janeiro,2024-11-18,pending
+33,Cliente 33,cliente33@exemplo.com,Belo Horizonte,2025-05-26,pending
+34,Cliente 34,cliente34@exemplo.com,Rio de Janeiro,2025-04-14,inactive
+35,Cliente 35,cliente35@exemplo.com,Rio de Janeiro,2024-05-22,pending
+36,Cliente 36,cliente36@exemplo.com,Curitiba,2024-09-26,inactive
+37,Cliente 37,cliente37@exemplo.com,Fortaleza,2025-02-12,active
+38,Cliente 38,cliente38@exemplo.com,Curitiba,2024-05-21,inactive
+39,Cliente 39,cliente39@exemplo.com,São Paulo,2024-04-03,active
+40,Cliente 40,cliente40@exemplo.com,Rio de Janeiro,2024-06-05,pending
+41,Cliente 41,cliente41@exemplo.com,Curitiba,2025-03-08,active
+42,Cliente 42,cliente42@exemplo.com,Belo Horizonte,2025-01-29,pending
+43,Cliente 43,cliente43@exemplo.com,Curitiba,2025-04-24,inactive
+44,Cliente 44,cliente44@exemplo.com,São Paulo,2024-01-12,pending
+45,Cliente 45,cliente45@exemplo.com,Fortaleza,2024-09-30,active
+46,Cliente 46,cliente46@exemplo.com,Belo Horizonte,2024-10-27,active
+47,Cliente 47,cliente47@exemplo.com,São Paulo,2025-04-09,pending
+48,Cliente 48,cliente48@exemplo.com,Curitiba,2024-09-26,active
+49,Cliente 49,cliente49@exemplo.com,São Paulo,2025-06-03,pending
+50,Cliente 50,cliente50@exemplo.com,Curitiba,2024-11-01,pending
+51,Cliente 51,cliente51@exemplo.com,Rio de Janeiro,2024-07-22,inactive
+52,Cliente 52,cliente52@exemplo.com,Curitiba,2024-06-14,pending
+53,Cliente 53,cliente53@exemplo.com,Curitiba,2024-01-01,inactive
+54,Cliente 54,cliente54@exemplo.com,São Paulo,2025-05-15,active
+55,Cliente 55,cliente55@exemplo.com,Fortaleza,2025-01-06,active
+56,Cliente 56,cliente56@exemplo.com,Rio de Janeiro,2024-02-29,pending
+57,Cliente 57,cliente57@exemplo.com,São Paulo,2024-03-21,pending
+58,Cliente 58,cliente58@exemplo.com,São Paulo,2025-05-12,pending
+59,Cliente 59,cliente59@exemplo.com,Rio de Janeiro,2024-05-08,pending
+60,Cliente 60,cliente60@exemplo.com,Curitiba,2025-05-01,active
+61,Cliente 61,cliente61@exemplo.com,Curitiba,2024-09-28,pending
+62,Cliente 62,cliente62@exemplo.com,Rio de Janeiro,2025-03-09,pending
+63,Cliente 63,cliente63@exemplo.com,Fortaleza,2024-07-24,inactive
+64,Cliente 64,cliente64@exemplo.com,Belo Horizonte,2025-01-17,pending
+65,Cliente 65,cliente65@exemplo.com,São Paulo,2025-04-07,active
+66,Cliente 66,cliente66@exemplo.com,São Paulo,2024-08-18,inactive
+67,Cliente 67,cliente67@exemplo.com,Curitiba,2024-01-22,pending
+68,Cliente 68,cliente68@exemplo.com,Curitiba,2024-08-23,active
+69,Cliente 69,cliente69@exemplo.com,São Paulo,2024-01-08,pending
+70,Cliente 70,cliente70@exemplo.com,Rio de Janeiro,2024-03-01,active
+71,Cliente 71,cliente71@exemplo.com,Fortaleza,2024-02-02,active
+72,Cliente 72,cliente72@exemplo.com,Rio de Janeiro,2025-06-10,inactive
+73,Cliente 73,cliente73@exemplo.com,Rio de Janeiro,2025-05-12,pending
+74,Cliente 74,cliente74@exemplo.com,Curitiba,2024-05-15,pending
+75,Cliente 75,cliente75@exemplo.com,Rio de Janeiro,2025-04-29,inactive
+76,Cliente 76,cliente76@exemplo.com,Rio de Janeiro,2025-02-20,active
+77,Cliente 77,cliente77@exemplo.com,Belo Horizonte,2024-04-09,inactive
+78,Cliente 78,cliente78@exemplo.com,Belo Horizonte,2025-03-09,inactive
+79,Cliente 79,cliente79@exemplo.com,São Paulo,2024-02-25,active
+80,Cliente 80,cliente80@exemplo.com,Fortaleza,2025-02-16,active
+81,Cliente 81,cliente81@exemplo.com,Rio de Janeiro,2024-09-11,active
+82,Cliente 82,cliente82@exemplo.com,Rio de Janeiro,2025-04-04,inactive
+83,Cliente 83,cliente83@exemplo.com,Fortaleza,2024-07-06,inactive
+84,Cliente 84,cliente84@exemplo.com,São Paulo,2024-09-12,inactive
+85,Cliente 85,cliente85@exemplo.com,São Paulo,2024-04-10,pending
+86,Cliente 86,cliente86@exemplo.com,São Paulo,2024-01-16,active
+87,Cliente 87,cliente87@exemplo.com,Belo Horizonte,2024-06-19,inactive
+88,Cliente 88,cliente88@exemplo.com,Rio de Janeiro,2025-05-07,inactive
+89,Cliente 89,cliente89@exemplo.com,Rio de Janeiro,2024-03-01,inactive
+90,Cliente 90,cliente90@exemplo.com,Belo Horizonte,2024-01-03,inactive
+91,Cliente 91,cliente91@exemplo.com,Fortaleza,2025-04-10,inactive
+92,Cliente 92,cliente92@exemplo.com,Rio de Janeiro,2025-05-13,active
+93,Cliente 93,cliente93@exemplo.com,Rio de Janeiro,2024-10-30,active
+94,Cliente 94,cliente94@exemplo.com,Fortaleza,2024-03-03,active
+95,Cliente 95,cliente95@exemplo.com,Curitiba,2024-02-21,inactive
+96,Cliente 96,cliente96@exemplo.com,Curitiba,2025-05-29,active
+97,Cliente 97,cliente97@exemplo.com,Curitiba,2024-02-28,active
+98,Cliente 98,cliente98@exemplo.com,São Paulo,2024-07-09,pending
+99,Cliente 99,cliente99@exemplo.com,Rio de Janeiro,2024-03-10,inactive
+100,Cliente 100,cliente100@exemplo.com,Curitiba,2024-05-02,active

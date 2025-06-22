@@ -1,0 +1,10 @@
+# etl_config.yaml
+
+# Caminho para o arquivo de dados de entrada
+source_path: "/data/raw/events.csv"
+
+# Número de registros a processar em cada lote (deve ser inteiro ≥ 1)
+batch_size: 500
+
+# Limiar de filtragem para remover registros com confiabilidade baixa (0.0 – 1.0)
+threshold: 0.75
