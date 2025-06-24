@@ -12,6 +12,10 @@ from tasks.transformar import Transformer
 #from etl.validator import ValidadorClientes
 #from etl.exceptions import ETLError
 
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - [%(levelname)s] %(message)s",
+)
 
 def gerar():
     generator = CarGenerator(n_rows=1000)
