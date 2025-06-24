@@ -2,7 +2,7 @@
 import os
 import pandas as pd
 import time
-from src.exceptions import DataLoadError
+from utils.exceptions import DataLoadError
 
 class DataLoader:
     def __init__(self, base_path):

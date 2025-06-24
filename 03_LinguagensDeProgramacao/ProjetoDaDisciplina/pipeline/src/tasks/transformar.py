@@ -1,6 +1,6 @@
 import pandas as pd
 import logging
-from src.exceptions import DataLoadError
+from utils.exceptions import DataLoadError
 import re
 
 class Transformer:
@@ -27,7 +27,7 @@ class Transformer:
                 return 'Inválido'
     
         try:
-            logging.info("🧼 Iniciando transformações no DataFrame")
+            logging.info("Iniciando tratamento de dados")
 
             # Remover duplicatas
             df = df.drop_duplicates()
@@ -38,9 +38,9 @@ class Transformer:
             #Classifica o padrão da placa do Carro
             df["padrao_placa"] = df["placa"].apply(identificar_padrao_placa)
 
-            logging.info("✅ Transformações concluídas")
+            logging.info("Tratamentos concluídos")
             return df
 
         except Exception as e:
-            logging.error(f"Erro ao transformar dados: {str(e)}")
-            raise DataLoadError("Erro na transformação dos dados") from e
+            logging.error(f"Erro na etapa de Transformação: {str(e)}")
+            raise DataLoadError("Erro no tratamento de dados") from e
