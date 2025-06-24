@@ -31,7 +31,8 @@ pandas
 ⚙️ Como Executar
 Clone o repositório:
 
-https://github.com/LiandersonFalcao/MBAEngenhariaDeDados/tree/main/03_LinguagensDeProgramacao/ProjetoDaDisciplina.git
+git clone https://github.com/LiandersonFalcao/MBAEngenhariaDeDados.git
+[03_LinguagensDeProgramacao/ProjetoDaDisciplina/]
 
 Crie e ative um ambiente virtual (opcional, mas recomendado):
 
